@@ -1,0 +1,2 @@
+# ScriptingProjectNewmanP8
+cREATING A REPO FOR MY SCRIPTING PROJECT 
